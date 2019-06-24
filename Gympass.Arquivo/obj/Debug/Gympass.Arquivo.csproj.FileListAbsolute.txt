@@ -1,0 +1,10 @@
+C:\Users\leo_l\source\repos\Gympass.Arquivo\Gympass.Arquivo\bin\Debug\Gympass.Arquivo.dll.config
+C:\Users\leo_l\source\repos\Gympass.Arquivo\Gympass.Arquivo\bin\Debug\Gympass.Arquivo.dll
+C:\Users\leo_l\source\repos\Gympass.Arquivo\Gympass.Arquivo\bin\Debug\Gympass.Arquivo.pdb
+C:\Users\leo_l\source\repos\Gympass.Arquivo\Gympass.Arquivo\bin\Debug\Gympass.Modelos.dll
+C:\Users\leo_l\source\repos\Gympass.Arquivo\Gympass.Arquivo\bin\Debug\Gympass.Modelos.pdb
+C:\Users\leo_l\source\repos\Gympass.Arquivo\Gympass.Arquivo\obj\Debug\Gympass.Arquivo.csprojAssemblyReference.cache
+C:\Users\leo_l\source\repos\Gympass.Arquivo\Gympass.Arquivo\obj\Debug\Gympass.Arquivo.csproj.CoreCompileInputs.cache
+C:\Users\leo_l\source\repos\Gympass.Arquivo\Gympass.Arquivo\obj\Debug\Gympass.Arquivo.csproj.CopyComplete
+C:\Users\leo_l\source\repos\Gympass.Arquivo\Gympass.Arquivo\obj\Debug\Gympass.Arquivo.dll
+C:\Users\leo_l\source\repos\Gympass.Arquivo\Gympass.Arquivo\obj\Debug\Gympass.Arquivo.pdb

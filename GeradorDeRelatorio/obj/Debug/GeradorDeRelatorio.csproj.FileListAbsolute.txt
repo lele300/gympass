@@ -1,0 +1,13 @@
+C:\Users\leo_l\source\repos\Gympass.Arquivo\GeradorDeRelatorio\bin\Debug\GeradorDeRelatorio.exe.config
+C:\Users\leo_l\source\repos\Gympass.Arquivo\GeradorDeRelatorio\bin\Debug\GeradorDeRelatorio.exe
+C:\Users\leo_l\source\repos\Gympass.Arquivo\GeradorDeRelatorio\bin\Debug\GeradorDeRelatorio.pdb
+C:\Users\leo_l\source\repos\Gympass.Arquivo\GeradorDeRelatorio\bin\Debug\Gympass.Arquivo.dll
+C:\Users\leo_l\source\repos\Gympass.Arquivo\GeradorDeRelatorio\bin\Debug\Gympass.Modelos.dll
+C:\Users\leo_l\source\repos\Gympass.Arquivo\GeradorDeRelatorio\bin\Debug\Gympass.Arquivo.pdb
+C:\Users\leo_l\source\repos\Gympass.Arquivo\GeradorDeRelatorio\bin\Debug\Gympass.Arquivo.dll.config
+C:\Users\leo_l\source\repos\Gympass.Arquivo\GeradorDeRelatorio\bin\Debug\Gympass.Modelos.pdb
+C:\Users\leo_l\source\repos\Gympass.Arquivo\GeradorDeRelatorio\obj\Debug\GeradorDeRelatorio.csprojAssemblyReference.cache
+C:\Users\leo_l\source\repos\Gympass.Arquivo\GeradorDeRelatorio\obj\Debug\GeradorDeRelatorio.csproj.CoreCompileInputs.cache
+C:\Users\leo_l\source\repos\Gympass.Arquivo\GeradorDeRelatorio\obj\Debug\GeradorDeRelatorio.csproj.CopyComplete
+C:\Users\leo_l\source\repos\Gympass.Arquivo\GeradorDeRelatorio\obj\Debug\GeradorDeRelatorio.exe
+C:\Users\leo_l\source\repos\Gympass.Arquivo\GeradorDeRelatorio\obj\Debug\GeradorDeRelatorio.pdb
